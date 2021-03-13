@@ -1,4 +1,5 @@
-Hi there! I’m @luisnaranjo
+Hi there! I’m Luis Naranjo.
+
 👀 I'm a Linux SysAdmin interested in Automation and DevOps.
 
 🌱 I’m currently learning about K8s.
