@@ -1,8 +1,8 @@
 Hi there! I’m Luis Naranjo.
 
-👀 I'm a Linux SysAdmin interested in Automation and DevOps.
+👀 I'm a Systems Engineer interested in Automation and DevOps.
 
-🌱 I’m currently learning about K8s.
+🌱 I’m currently learning about GitHub Actions.
 
 📫 How to reach me:
   - luis_nm@outlook.com
